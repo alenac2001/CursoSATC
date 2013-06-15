@@ -1,9 +1,5 @@
 package aula.satc;
 
-/**
- *
- * @author EDUTEC
- */
 public class DiasdaSemana_com_for {
     public static void main (String[] args){
         String days[] = {"segunda", "terça", "quarta", "quinta", "sexta", "sabado", "domingo"};

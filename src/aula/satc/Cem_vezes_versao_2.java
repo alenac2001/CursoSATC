@@ -1,6 +1,5 @@
 package aula.satc;
 
-
 import javax.swing.JOptionPane;
 
 public class Cem_vezes_versao_2 {

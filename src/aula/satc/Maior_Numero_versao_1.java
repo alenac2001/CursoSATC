@@ -10,7 +10,7 @@ public class Maior_Numero_versao_1 {
         int maior = 0;
         
         for (int index = 0; index < 10 ; index ++) {
-            valores[index] = Integer.parseInt(JOptionPane.showInputDialog("Informe o valor " + index));
+            valores[index] = Integer.parseInt(JOptionPane.showInputDialog("Informe o valor " + index + 1));
             
             if (valores[index] > maior)
                 maior = valores[index];
