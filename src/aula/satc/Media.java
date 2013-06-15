@@ -1,3 +1,5 @@
+package aula.satc;
+
 
 import javax.swing.JOptionPane;
 
@@ -16,9 +18,6 @@ public class Media {
             System.out.println("Media = " + media + " :-)");
         } else
             System.out.println("Media = " + media);
-              
-        
-        
     }
  }
     

@@ -1,3 +1,5 @@
+package aula.satc;
+
 /**
  *
  * @author EDUTEC
