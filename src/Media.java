@@ -12,12 +12,14 @@ import javax.swing.JOptionPane;
  */
 public class Media {
     public static void main(String[] args){
-        String nota2, nota3;
-        float nota1, media;
+
+        float nota1,nota2, nota3, media;
         
-        nota1 = Integer.ParserFloat(JOptionPane.showInputDialog(null, "Informe a nota 1:"));            
-        nota2 = JOptionPane.showInputDialog(null, "Informe a nota 2:");  
-        nota3 = JOptionPane.showInputDialog(null, "Informe a nota 3:"); 
+        nota1 = Float.parseFloat(JOptionPane.showInputDialog(null, "Informe a nota 1:"));            
+        nota2 = Float.parseFloat(JOptionPane.showInputDialog(null, "Informe a nota 2:");  
+        nota3 = Float.parseFloat(JOptionPane.showInputDialog(null, "Informe a nota 3:"); 
+        
+        media = (nota1,nota2, nota3) / 3;
         
         
     }
