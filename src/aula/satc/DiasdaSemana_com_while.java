@@ -9,7 +9,7 @@ public class DiasdaSemana_com_while {
         while (cont < days.length ){
             System.out.println(days[cont]);
             cont++;
+            
         }      
-    }
-    
+    }   
 }
