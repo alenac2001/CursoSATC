@@ -1,14 +1,5 @@
 package aula.satc;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author EDUTEC
- */
 public class DiasdaSemana_com_while {
     public static void main(String[] args){
         String days[] = {"segunda", "terça", "quarta", "quinta", "sexta", "sabado", "domingo"};
