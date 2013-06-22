@@ -2,7 +2,8 @@
 package aula.satc;
 
 public class Agenda_Telefonica {
-    public static void main(String[] args){   
+    public static void main(String[] args){  
+        
         
         String [][] pessoas = new String[3][2];
 
